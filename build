@@ -1,0 +1,72 @@
+name: Build APK
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      gen_seed:
+        description: 'Сгенерировать базу слов через ИИ перед сборкой (нужен секрет AI_API_KEY)'
+        type: boolean
+        default: false
+      level:
+        description: 'Уровень CEFR для генерации'
+        type: choice
+        options: [B1, B2, A2, C1]
+        default: B1
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Create Android scaffold if missing
+        run: |
+          if [ ! -d android ]; then
+            flutter create --platforms=android --project-name english_trainer --org com.personal .
+          fi
+          rm -f test/widget_test.dart
+
+      - name: Add permissions and speech queries
+        run: |
+          python3 - << 'PY'
+          import re
+          f = "android/app/src/main/AndroidManifest.xml"
+          s = open(f, encoding="utf-8").read()
+          if "RECORD_AUDIO" not in s:
+              add = ('<uses-permission android:name="android.permission.INTERNET"/>'
+                     '<uses-permission android:name="android.permission.RECORD_AUDIO"/>'
+                     '<queries><intent><action android:name="android.speech.RecognitionService"/></intent></queries>')
+              s = re.sub(r'(<manifest[^>]*>)', lambda m: m.group(1) + add, s, count=1)
+              open(f, "w", encoding="utf-8").write(s)
+          PY
+
+      - run: flutter pub get
+
+      - name: Generate word base via AI (optional, manual run only)
+        if: github.event_name == 'workflow_dispatch' && inputs.gen_seed
+        continue-on-error: true
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_BASE_URL: ${{ vars.AI_BASE_URL || 'https://api.openai.com/v1' }}
+          AI_MODEL: ${{ vars.AI_MODEL || 'gpt-4o-mini' }}
+          LEVEL: ${{ inputs.level }}
+        run: python3 tools/gen_seed.py
+
+      - run: flutter build apk --release
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: english-trainer-apk
+          path: build/app/outputs/flutter-apk/app-release.apk
