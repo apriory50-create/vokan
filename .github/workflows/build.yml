@@ -31,12 +31,21 @@ jobs:
           channel: stable
           cache: true
 
-      - name: Create Android scaffold if missing
+      - name: Create Android folder if missing (keeps our lib/ and pubspec.yaml)
         run: |
           if [ ! -d android ]; then
-            flutter create --platforms=android --project-name english_trainer --org com.personal .
+            flutter create --platforms=android --project-name english_trainer --org com.personal _scaffold
+            cp -r _scaffold/android ./android
+            rm -rf _scaffold
           fi
           rm -f test/widget_test.dart
+
+      - name: Verify project files are ours
+        run: |
+          grep -q "TrainerApp" lib/main.dart || { echo "ОШИБКА: lib/main.dart не из English Trainer"; exit 1; }
+          grep -q "speech_to_text" pubspec.yaml || { echo "ОШИБКА: pubspec.yaml не из English Trainer"; exit 1; }
+          test -f lib/screens.dart || { echo "ОШИБКА: нет lib/screens.dart"; exit 1; }
+          echo "Файлы проекта на месте"
 
       - name: Add permissions and speech queries
         run: |
