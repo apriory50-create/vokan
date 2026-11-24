@@ -1,0 +1,68 @@
+framework version|версия фреймворка|Upgrade to the latest framework version.|B2
+build|сборка; собирать|The build failed on the server.|B2
+artifact|артефакт, результат сборки|Download the artifact from the pipeline.|B2
+pipeline|конвейер (CI/CD)|The pipeline runs tests on every commit.|B2
+container|контейнер|We run the service in a container.|B2
+server|сервер|The server is down for maintenance.|B1
+client|клиент (программа)|The client sends requests to the server.|B2
+frontend|клиентская часть|The frontend shows the data from the backend.|B2
+backend|серверная часть|The backend handles all the calculations.|B2
+full stack|полный стек|She is a full stack developer.|B2
+open source|открытый исходный код|The project is open source.|B2
+license|лицензия|Check the license before using the code.|B2
+documentation|документация|The documentation explains how to install the tool.|B2
+tutorial|учебное пособие|Follow the tutorial step by step.|B1
+example code|пример кода|Look at the example code in the appendix.|B2
+syntax|синтаксис|The syntax error is on line five.|B2
+compile|компилировать|The code won't compile on Windows.|B2
+run|запускать|Run the tests before you push.|B1
+test|тест; тестировать|We test every feature before release.|B1
+unit test|модульный тест|Each function has a unit test.|B2
+coverage|покрытие (тестами)|Our test coverage is about eighty percent.|B2
+benchmark|бенчмарк, тест производительности|The benchmark shows a big speed gain.|B2
+optimize|оптимизировать|We need to optimize the image loading.|B2
+memory leak|утечка памяти|The app has a memory leak in the chat screen.|B2
+performance|производительность|Performance improved after the update.|B2
+battery drain|разряд батареи|The new feature causes battery drain.|B2
+permission|разрешение|The app asks for camera permission.|B1
+access|доступ; получать доступ|You need admin access to change the settings.|B1
+account|аккаунт, учётная запись|Create an account to save your progress.|B1
+profile|профиль|Update your profile photo.|B1
+avatar|аватар|Upload a new avatar for your account.|B1
+username|имя пользователя|Choose a unique username.|B1
+email address|адрес электронной почты|Enter your email address.|B1
+verification code|проверочный код|Enter the verification code we sent you.|B1
+two-factor authentication|двухфакторная аутентификация|Turn on two-factor authentication for safety.|B2
+session|сессия|Your session has expired, please log in again.|B2
+cookie|cookie, файл cookie|Accept cookies to continue.|B1
+privacy policy|политика конфиденциальности|Read our privacy policy before signing up.|B2
+terms of service|условия использования|Please accept the terms of service.|B2
+unsubscribe|отписаться|Click here to unsubscribe from the newsletter.|B1
+newsletter|рассылка|Sign up for our monthly newsletter.|B1
+landing page|посадочная страница|The landing page explains the main benefits.|B2
+call to action|призыв к действию|The button is the main call to action.|B2
+conversion rate|коэффициент конверсии|Our conversion rate increased this month.|B2
+traffic|трафик (посещения сайта)|The website gets a lot of traffic from search.|B2
+search engine|поисковая система|The article ranks high in search engines.|B2
+keyword|ключевое слово|Use the right keywords in the title.|B2
+homepage|главная страница|Go back to the homepage.|B1
+navigation bar|панель навигации|The navigation bar is at the top.|B2
+menu|меню|Open the menu in the top corner.|B1
+button|кнопка|Press the green button to confirm.|B1
+icon|значок|Tap the icon to open the camera.|B1
+pop-up|всплывающее окно|Close the pop-up to continue.|B1
+banner|баннер|The banner shows the latest offer.|B1
+form|форма (для заполнения)|Fill in the form on the page.|B1
+input field|поле ввода|Type your name in the input field.|B2
+drop-down menu|выпадающее меню|Choose a city from the drop-down menu.|B2
+slider|ползунок|Move the slider to change the volume.|B1
+progress bar|индикатор прогресса|The progress bar shows the upload status.|B2
+loading screen|экран загрузки|The loading screen appears for a few seconds.|B2
+error message|сообщение об ошибке|An error message appeared on the screen.|B1
+warning|предупреждение|A warning appears before deletion.|B1
+confirmation|подтверждение|You will receive a confirmation by email.|B1
+preview|предпросмотр|Check the preview before you publish.|B1
+export|экспорт; экспортировать|You can export your data as a file.|B2
+import|импорт; импортировать|Import the contacts from your phone.|B2
+backup copy|резервная копия|Keep a backup copy of important files.|B2
+restore|восстанавливать|Restore the app to factory settings.|B2

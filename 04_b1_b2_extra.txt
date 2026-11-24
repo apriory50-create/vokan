@@ -1,0 +1,113 @@
+actually|на самом деле|I actually enjoyed the lecture.|B1
+apparently|по-видимому|Apparently, the shop is closed today.|B1
+basically|в основном|Basically, we need more time.|B1
+certainly|конечно, безусловно|Certainly, I can help you with that.|B1
+clearly|ясно, явно|She clearly didn't understand the question.|B1
+completely|полностью|I completely agree with you.|B1
+definitely|определённо|You will definitely like this film.|B1
+especially|особенно|I love fruit, especially mangoes.|B1
+eventually|в конце концов|He eventually found a job.|B1
+exactly|именно, точно|That's exactly what I meant.|B1
+extremely|чрезвычайно|The exam was extremely hard.|B1
+fairly|довольно, справедливо|The hotel is fairly cheap.|B1
+finally|наконец|We finally arrived at the hotel.|B1
+frequently|часто|He frequently travels for work.|B1
+generally|обычно, в целом|Generally, the weather is mild here.|B1
+honestly|честно|Honestly, I didn't expect that.|B1
+immediately|немедленно|Please reply immediately.|B1
+indeed|действительно|It is indeed a beautiful city.|B1
+instead|вместо|Let's have tea instead of coffee.|B1
+literally|буквально|It was literally the best day of my life.|B2
+obviously|очевидно|Obviously, we can't go without a car.|B1
+occasionally|время от времени|I occasionally go to the gym.|B1
+particularly|особенно|The soup is particularly good today.|B1
+possibly|возможно|Could you possibly help me?|B1
+probably|вероятно|It will probably rain later.|B1
+quickly|быстро|Please answer quickly.|B1
+recently|недавно|I recently moved to a new flat.|B1
+regularly|регулярно|We meet regularly on Thursdays.|B1
+relatively|относительно|The job is relatively easy.|B2
+seriously|серьёзно|I seriously need a holiday.|B1
+simply|просто|It is simply too expensive.|B1
+slightly|немного|The room is slightly too warm.|B1
+somewhat|несколько|The film was somewhat disappointing.|B2
+surely|конечно, наверняка|Surely you know the answer?|B2
+typically|обычно|Typically, we eat dinner at seven.|B2
+usually|обычно|I usually walk to work.|B1
+vanilla|ваниль|Add a drop of vanilla to the dough.|B1
+bank account|банковский счёт|I opened a bank account last week.|B1
+credit card|кредитная карта|Can I pay by credit card?|B1
+cash machine|банкомат|The cash machine is around the corner.|B1
+exchange rate|обменный курс|The exchange rate is good today.|B2
+bill|счёт за услуги|The electricity bill is high this month.|B1
+price|цена|What is the price of this bag?|B1
+cost of living|стоимость жизни|The cost of living in the city is high.|B2
+save money|экономить деньги|I want to save money for a new car.|B1
+spend money|тратить деньги|He spends too much money on games.|B1
+earn money|зарабатывать деньги|She earns money by teaching English.|B1
+pay rent|платить аренду|We pay rent every month.|B1
+pocket money|карманные деньги|Children get pocket money from parents.|B1
+invoice|счёт (документ)|Please send me an invoice.|B2
+receipt|чек|Keep the receipt for the warranty.|B1
+change|сдача; менять|Keep the change, please.|B1
+coin|монета|He found an old coin in the garden.|B1
+banknote|банкнота|The banknote was counterfeit.|B2
+investment|инвестиция|Property is a good investment.|B2
+stock|акция; запас|He bought stock in a tech company.|B2
+share price|цена акции|The share price rose sharply.|B2
+market|рынок|The company wants to enter the foreign market.|B1
+competitor|конкурент|Our competitors offer lower prices.|B2
+brand new|совершенно новый|She drives a brand new car.|B1
+second-hand|подержанный|I bought a second-hand bike.|B1
+bargain|выгодная покупка|These shoes were a real bargain.|B1
+sale|распродажа|The shop has a big sale this weekend.|B1
+queue|очередь; стоять в очереди|We had to queue for an hour.|B1
+fitting room|примерочная|The fitting room is at the back.|B1
+size|размер|What size do you wear?|B1
+colour|цвет|Which colour do you prefer?|B1
+pattern|узор|The dress has a flower pattern.|B1
+material|материал|This jacket is made of soft material.|B1
+leather|кожа|Her bag is made of real leather.|B1
+cotton|хлопок|I prefer cotton shirts in summer.|B1
+wool|шерсть|This sweater is made of wool.|B1
+silk|шёлк|The scarf is pure silk.|B1
+plastic|пластик|Try to use less plastic.|B1
+glass|стекло|The glass in the window is broken.|B1
+wood|дерево|The table is made of wood.|B1
+metal|металл|The bridge is built from steel and metal.|B1
+paper|бумага|Can I have a piece of paper?|B1
+stone|камень|The wall is made of stone.|B1
+gold|золото|The ring is made of gold.|B1
+silver|серебро|She wears a silver necklace.|B1
+diamond|бриллиант|The diamond sparkled in the light.|B1
+bag|сумка|Put the shopping in the bag.|B1
+backpack|рюкзак|My backpack is full of books.|B1
+purse|кошелёк|She put the coins in her purse.|B1
+belt|ремень|Fasten your belt before take-off.|B1
+boots|сапоги, ботинки|These boots keep my feet warm.|B1
+trainers|кроссовки|I wear trainers for running.|B1
+sandals|сандалии|Sandals are perfect for the beach.|B1
+dress|платье|She wore a red dress to the party.|B1
+skirt|юбка|This skirt is too short.|B1
+trousers|брюки|These trousers are too long.|B1
+shirt|рубашка|He ironed his white shirt.|B1
+hat|шляпа, шапка|Wear a hat in the sun.|B1
+gloves|перчатки|Put on your gloves, it's freezing.|B1
+glasses|очки|I need glasses to read.|B1
+sunglasses|солнечные очки|Don't forget your sunglasses.|B1
+umbrella|зонт|I always carry an umbrella.|B1
+key|ключ|Where did you put the keys?|B1
+lock|замок; запирать|Lock the door when you leave.|B1
+window|окно|Open the window, it's hot in here.|B1
+wall|стена|Hang the picture on the wall.|B1
+floor|пол, этаж|The kids sat on the floor.|B1
+stairs|лестница|Take the stairs, the lift is broken.|B1
+garden|сад|We grow vegetables in the garden.|B1
+balcony|балкон|We have coffee on the balcony.|B1
+kitchen|кухня|The kitchen smells of fresh bread.|B1
+bedroom|спальня|My bedroom faces the park.|B1
+bathroom|ванная комната|The bathroom needs cleaning.|B1
+living room|гостиная|We watch films in the living room.|B1
+dining room|столовая|The dining room table seats eight.|B1
+basement|подвал|The basement is used for storage.|B1
+attic|чердак|The old books are in the attic.|B1

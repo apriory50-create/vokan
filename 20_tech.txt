@@ -1,0 +1,145 @@
+deploy|развернуть, выкатить на сервер|We deploy the new version every Friday.|B2
+release|релиз; выпускать|The team plans to release the app next month.|B1
+rollback|откат|We did a rollback after the crash.|B2
+roll back|откатить|If the update breaks, roll back to the previous version.|B2
+hotfix|срочное исправление|The hotfix fixed the login bug within an hour.|B2
+patch|исправление, патч|Install the security patch as soon as possible.|B2
+bug|ошибка в коде|There is a bug in the login screen.|B1
+debug|отлаживать, искать ошибки|I spent the whole day debugging the parser.|B2
+crash|аварийно завершаться|The app crashes when I open the camera.|B1
+freeze|зависать|The screen froze after the update.|B1
+hang|зависать|The program hangs when the file is too big.|B2
+fix|исправлять|We fixed the issue in the next build.|B1
+workaround|обходное решение|We found a workaround until the bug is fixed.|B2
+edge case|пограничный случай|Don't forget to test the edge cases.|B2
+regression|регрессия, поломка старой функции|This change caused a regression in the search.|B2
+verify|проверять, подтверждать|Please verify that the feature works on Android.|B1
+reproduce|воспроизводить (ошибку)|Can you reproduce the bug on your device?|B2
+triage|разбирать и приоритизировать задачи|We triage new bug reports every morning.|B2
+backlog|список задач, очередь|The backlog has over two hundred items.|B2
+sprint|спринт, короткий цикл работы|We finish one sprint every two weeks.|B2
+standup|короткая ежедневная встреча команды|The daily standup takes fifteen minutes.|B2
+stakeholder|заинтересованная сторона|We need approval from all stakeholders.|B2
+roadmap|дорожная карта|The roadmap includes three major features for next year.|B2
+milestone|веха, ключевой этап|Reaching the beta is an important milestone.|B2
+prioritize|расставлять приоритеты|We need to prioritize the most urgent tasks.|B2
+estimate|оценивать (время, сложность)|Can you estimate how long this feature will take?|B1
+blocker|блокер, препятствие|The missing API key is a blocker for the team.|B2
+unblock|снять блокировку|Your fix will unblock the testers.|B2
+commit|фиксировать изменения; коммит|Make a commit with a clear message.|B2
+push|отправлять изменения|Push your branch to the remote repository.|B2
+pull|получать изменения|Pull the latest changes before you start.|B2
+branch|ветка (в репозитории)|Create a new branch for this feature.|B2
+merge|слияние веток|Merge the feature branch into main after the review.|B2
+merge conflict|конфликт слияния|I got a merge conflict in the config file.|B2
+pull request|запрос на слияние|Open a pull request so others can review your code.|B2
+code review|проверка кода|Every change goes through code review.|B2
+refactor|рефакторинг, переписывание кода|We need to refactor the database layer.|B2
+dependency|зависимость|The project has too many dependencies.|B2
+outdated|устаревший|This library is outdated and needs an update.|B2
+deprecated|устаревший, помеченный на удаление|This method is deprecated and will be removed.|B2
+backward compatible|обратно совместимый|The new API is backward compatible with version two.|B2
+legacy|устаревший, унаследованный|The app still uses some legacy code.|B2
+framework|фреймворк|Flutter is a framework for building mobile apps.|B2
+library|библиотека|This library handles the image loading for us.|B1
+module|модуль|Each module has its own tests.|B2
+component|компонент|The button is a reusable component.|B2
+interface|интерфейс|The interface is simple and easy to use.|B1
+configuration|конфигурация, настройка|The configuration file is in the root folder.|B2
+variable|переменная|Store the result in a variable.|B1
+function|функция|This function returns the total price.|B1
+parameter|параметр|Pass the user id as a parameter.|B2
+argument|аргумент|The function takes two arguments.|B2
+return|возвращать|The method returns a list of items.|B1
+loop|цикл|A loop repeats the same block of code.|B1
+condition|условие|Check the condition before running the code.|B1
+exception|исключение|The app throws an exception when the file is missing.|B2
+error handling|обработка ошибок|Good error handling makes the app more reliable.|B2
+logging|логирование|Logging helps us find problems in production.|B2
+log|журнал записей; записывать|Check the log to see what went wrong.|B1
+monitor|отслеживать, мониторить|We monitor the server around the clock.|B2
+alert|оповещение|The system sent an alert about high memory use.|B2
+incident|инцидент|The incident affected thousands of users.|B2
+outage|сбой, отключение сервиса|There was a short outage this morning.|B2
+downtime|время простоя|The downtime lasted about twenty minutes.|B2
+on-call|дежурный (вне рабочего времени)|Who is on-call this weekend?|B2
+postmortem|разбор инцидента|We wrote a postmortem after the outage.|B2
+uptime|время работы без сбоев|Our uptime this month was 99.9 percent.|B2
+latency|задержка|High latency makes the app feel slow.|B2
+throughput|пропускная способность|The server handles high throughput at peak times.|B2
+bottleneck|узкое место|The database is the main bottleneck.|B2
+scale|масштабировать|The service must scale to millions of users.|B2
+cache|кэш; кэшировать|Cache the images to load them faster.|B2
+database|база данных|The database stores all user profiles.|B1
+query|запрос к базе данных|This query is too slow for large tables.|B2
+schema|схема данных|The schema has changed since the last release.|B2
+migration|миграция данных|The migration adds a new column to the table.|B2
+index|индекс|Add an index to speed up the search.|B2
+transaction|транзакция|The transaction failed and nothing was saved.|B2
+primary key|первичный ключ|Each row has a unique primary key.|B2
+foreign key|внешний ключ|The foreign key links orders to customers.|B2
+sync|синхронизировать|The app syncs your data when you are online.|B2
+offline mode|офлайн-режим|The app works in offline mode without internet.|B1
+storage|хранилище|The photos use a lot of storage.|B1
+token|токен|The server returns a token after login.|B2
+authentication|аутентификация|Authentication is required to access your account.|B2
+authorization|авторизация, права доступа|Only admins have authorization to delete users.|B2
+endpoint|конечная точка API|The endpoint returns the list of products.|B2
+request|запрос|Each request takes about two seconds.|B1
+response|ответ|The response contains an error code.|B1
+payload|полезная нагрузка данных|The payload is too large for the request.|B2
+timeout|тайм-аут|The request ended with a timeout.|B2
+retry|повторить попытку|The app will retry the upload automatically.|B2
+rate limit|ограничение частоты запросов|We hit the rate limit of the API.|B2
+API key|ключ API|Never share your API key publicly.|B2
+credentials|учётные данные|Enter your credentials to continue.|B1
+encryption|шифрование|Your messages use end-to-end encryption.|B2
+vulnerability|уязвимость|The update fixes a security vulnerability.|B2
+password reset|сброс пароля|Click here to start a password reset.|B1
+sign up|зарегистрироваться|You can sign up for a free account.|B1
+sign in|войти в систему|Sign in with your email address.|B1
+log out|выйти из системы|Log out when you finish using a shared computer.|B1
+onboarding|знакомство с приложением для новых пользователей|The onboarding takes less than a minute.|B2
+free tier|бесплатный тариф|The free tier includes ten projects.|B2
+trial|пробный период|You get a 14-day free trial.|B1
+subscription|подписка|Your subscription renews automatically each month.|B1
+pricing|ценообразование, тарифы|Check the pricing page for details.|B2
+dashboard|панель управления|The dashboard shows daily sales.|B1
+settings|настройки|Open the settings to change the language.|B1
+widget|виджет|Add the widget to your home screen.|B2
+notification|уведомление|You will get a notification when the order ships.|B1
+push notification|push-уведомление|Turn on push notifications to get updates.|B2
+dismiss|закрыть, отклонить|Dismiss the message by swiping it away.|B2
+tap|нажимать (пальцем)|Tap the icon to open the app.|B1
+swipe|смахивать|Swipe left to delete an item.|B1
+scroll|прокручивать|Scroll down to see more results.|B1
+drag and drop|перетаскивать|You can drag and drop files into the window.|B2
+zoom in|увеличить|Zoom in to read the small text.|B1
+full screen|полноэкранный режим|Press F11 to switch to full screen.|B1
+dark mode|тёмная тема|Dark mode saves battery on OLED screens.|B1
+toggle|переключать|Toggle this switch to enable notifications.|B2
+checkbox|флажок|Tick the checkbox to agree to the terms.|B1
+dropdown|выпадающий список|Select a country from the dropdown.|B2
+tooltip|всплывающая подсказка|Hover over the icon to see a tooltip.|B2
+placeholder|подсказка в поле ввода|The placeholder says enter your name.|B2
+spinner|индикатор загрузки|A spinner appears while the page loads.|B2
+load|загружать|The page takes too long to load.|B1
+reload|перезагрузить|Try to reload the page.|B1
+refresh|обновить|Refresh the list to see new messages.|B1
+upload|загружать на сервер|Upload your photo to the profile.|B1
+install|установить|Install the app from the store.|B1
+uninstall|удалить приложение|You can uninstall the app at any time.|B1
+update|обновление; обновлять|A new update is available for your phone.|B1
+launch|запускать|The app launches in under two seconds.|B1
+startup|запуск (приложения)|The startup time has improved a lot.|B2
+crash report|отчёт о сбое|The crash report shows where the error happened.|B2
+bug report|отчёт об ошибке|Please attach a bug report to your message.|B2
+feature request|запрос новой функции|We received a feature request for dark mode.|B2
+user experience|пользовательский опыт|The user experience is simple and clear.|B2
+accessibility|доступность для людей с ограничениями|Good accessibility includes support for screen readers.|B2
+responsive|адаптивный|The website is responsive on phones and tablets.|B2
+render|отрисовывать|The page takes time to render on old phones.|B2
+user story|пользовательская история|Each task starts with a user story.|B2
+acceptance criteria|критерии приёмки|Check the acceptance criteria before you finish the task.|B2
+story points|условные единицы оценки сложности|The task is worth three story points.|B2
+velocity|скорость работы команды|Our velocity has increased this quarter.|B2

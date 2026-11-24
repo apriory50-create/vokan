@@ -1,0 +1,154 @@
+kettle|чайник|Put the kettle on, I need a cup of tea.|B1
+towel rack|полотенцесушитель|Hang the wet towel on the rack.|B1
+doorbell|дверной звонок|Someone rang the doorbell twice.|B1
+curtain|штора|Close the curtains, it's getting dark.|B1
+pillow|подушка|My pillow is too soft for my neck.|B1
+blanket|одеяло|It's cold, bring me another blanket.|B1
+mattress|матрас|This mattress is very comfortable.|B1
+drawer|ящик (комода)|The keys are in the top drawer.|B1
+vacuum|пылесос; пылесосить|I vacuum the carpet every Saturday.|B1
+laundry basket|корзина для белья|Put your dirty clothes in the laundry basket.|B1
+iron|утюг; гладить|Can you iron this shirt for me?|B1
+microwave|микроволновка|Heat the soup in the microwave for two minutes.|B1
+toaster|тостер|The toaster burnt my bread.|B1
+dishwasher|посудомоечная машина|Load the dishwasher after dinner.|B1
+frying pan|сковорода|Heat some oil in the frying pan.|B1
+saucepan|кастрюля|Boil the pasta in a large saucepan.|B1
+cutting board|разделочная доска|Chop the onion on the cutting board.|B1
+spoon|ложка|Stir the sugar with a spoon.|B1
+fork|вилка|Use a fork to eat the salad.|B1
+knife|нож|This knife is very sharp.|B1
+plate|тарелка|Put the food on a plate.|B1
+bowl|миска|Mix the eggs in a big bowl.|B1
+mug|кружка|I drink my coffee from a blue mug.|B1
+jar|банка|Store the jam in a glass jar.|B1
+bottle opener|открывалка|Where is the bottle opener?|B1
+napkin|салфетка|Please pass me a napkin.|B1
+lid|крышка|Put the lid on the pan.|B1
+pot|кастрюля, горшок|Put the pot on the stove.|B1
+sponge|губка|Clean the dishes with a sponge.|B1
+detergent|моющее средство|Add a little detergent to the wash.|B1
+soap|мыло|Wash your hands with soap.|B1
+shampoo|шампунь|This shampoo smells of lemon.|B1
+toothbrush|зубная щётка|Change your toothbrush every three months.|B1
+toothpaste|зубная паста|We need more toothpaste.|B1
+razor|бритва|He bought a new razor.|B1
+hairdryer|фен|Use the hairdryer on low heat.|B1
+comb|расчёска|Comb your hair before the photo.|B1
+mirror|зеркало|Look in the mirror before you go out.|B1
+bathtub|ванна|I like to relax in a hot bathtub.|B1
+shower|душ|I take a shower every morning.|B1
+soup|суп|Hot soup is perfect on a cold day.|B1
+rice|рис|Cook the rice for twenty minutes.|B1
+pasta|паста, макароны|We had pasta with tomato sauce.|B1
+noodles|лапша|I ordered noodles with chicken.|B1
+meat|мясо|I don't eat much red meat.|B1
+fish|рыба; ловить рыбу|We ate grilled fish for dinner.|B1
+chicken|курица|Roast chicken is my favourite dish.|B1
+egg|яйцо|Boil two eggs for breakfast.|B1
+butter|масло (сливочное)|Spread some butter on the toast.|B1
+milk|молоко|Could you buy some milk?|B1
+juice|сок|Orange juice is full of vitamin C.|B1
+tea|чай|Would you like a cup of tea?|B1
+coffee|кофе|I need a strong coffee in the morning.|B1
+water|вода|Drink plenty of water in hot weather.|B1
+honey|мёд|She put honey in her tea.|B1
+salt|соль|Add a pinch of salt.|B1
+pepper|перец|Could you pass the pepper?|B1
+oil|масло (растительное)|Heat the oil before adding the onions.|B1
+flour|мука|You need flour to make bread.|B1
+cereal|хлопья, каша|I eat cereal with milk for breakfast.|B1
+yoghurt|йогурт|This yoghurt is low in fat.|B1
+cheese|сыр|Would you like cheese on your sandwich?|B1
+ham|ветчина|A ham sandwich, please.|B1
+sausage|колбаса, сосиска|We grilled sausages in the garden.|B1
+potato|картофель|Mash the potatoes with butter.|B1
+carrot|морковь|Carrots are good for your eyes.|B1
+onion|лук|Chop the onion into small pieces.|B1
+garlic|чеснок|Add two cloves of garlic to the sauce.|B1
+tomato|помидор|This tomato is very ripe.|B1
+cucumber|огурец|Cucumber is refreshing in summer.|B1
+lettuce|салат-латук|Put some lettuce in the sandwich.|B1
+apple|яблоко|An apple a day keeps the doctor away.|B1
+banana|банан|A ripe banana is sweet.|B1
+orange|апельсин|Peel the orange carefully.|B1
+grape|виноград|I like green grapes.|B1
+strawberry|клубника|Strawberries are in season now.|B1
+lemon|лимон|Add a slice of lemon to your water.|B1
+peach|персик|The peach was soft and juicy.|B1
+pear|груша|This pear is sweet.|B1
+nut|орех|Some nuts can cause allergies.|B1
+seed|семя|Plant the seeds in spring.|B1
+cake|торт, пирожное|She baked a birthday cake.|B1
+biscuit|печенье|Would you like a biscuit with your tea?|B1
+chocolate|шоколад|Dark chocolate has less sugar.|B1
+ice cream|мороженое|We bought ice cream on the beach.|B1
+sweet|сладкий|This tea is too sweet for me.|B1
+sour|кислый|The lemon is very sour.|B1
+bitter|горький|Black coffee can taste bitter.|B1
+salty|солёный|The soup is a bit salty.|B1
+fresh|свежий|The fish is fresh from the market.|B1
+crispy|хрустящий|The fries were crispy and hot.|B1
+tender|нежный, мягкий|The steak was tender and juicy.|B1
+hungry|голодный|I'm so hungry, let's eat something.|B1
+thirsty|хочущий пить|It's hot and I'm thirsty.|B1
+full|сытый, полный|I'm full, thank you.|B1
+hot|горячий|Be careful, the soup is very hot.|B1
+cold|холодный|The water is too cold for swimming.|B1
+warm|тёплый|Put on a warm coat.|B1
+bright|яркий|The sun is bright today.|B1
+dark|тёмный|The room was dark without the lights.|B1
+clean|чистый; чистить|Keep your kitchen clean.|B1
+dirty|грязный|My shoes are dirty after the walk.|B1
+empty|пустой|The fridge is empty.|B1
+heavy|тяжёлый|This bag is very heavy.|B1
+light|лёгкий; свет|The box is light enough to carry.|B1
+loud|громкий|The music is too loud.|B1
+quiet|тихий|Please be quiet, the baby is sleeping.|B1
+soft|мягкий|The bed is soft and warm.|B1
+hard|твёрдый, трудный|The bread is hard after two days.|B1
+wet|мокрый|My hair is wet from the rain.|B1
+dry|сухой; сушить|Hang the clothes to dry.|B1
+broken|сломанный|The window is broken.|B1
+expensive|дорогой|These shoes are too expensive.|B1
+cheap|дешёвый|This hotel is cheap but nice.|B1
+new|новый|I bought a new phone yesterday.|B1
+old|старый|This house is very old.|B1
+open|открытый; открывать|The shop is open until nine.|B1
+closed|закрытый|The museum is closed on Mondays.|B1
+busy|занятой, оживлённый|The street is busy in the morning.|B1
+free|свободный, бесплатный|Is this seat free?|B1
+ready|готовый|Dinner is ready!|B1
+late|поздний, опоздавший|Sorry I'm late.|B1
+early|ранний|I'm an early riser.|B1
+fast|быстрый|This train is very fast.|B1
+slow|медленный|The internet is very slow today.|B1
+easy|лёгкий|The test was easy.|B1
+difficult|трудный|This question is difficult.|B1
+safe|безопасный|The beach is safe for children.|B1
+dangerous|опасный|Driving on ice is dangerous.|B1
+useful|полезный|This app is very useful.|B1
+useless|бесполезный|The old map is useless now.|B1
+funny|смешной|That joke was really funny.|B1
+serious|серьёзный|Are you serious about the offer?|B1
+kind|добрый|She is kind to everyone.|B1
+rich|богатый|He is rich, but he is not happy.|B1
+poor|бедный|The poor family needed help.|B1
+tall|высокий|My brother is very tall.|B1
+short|низкий, короткий|The meeting was short.|B1
+big|большой|We need a bigger table.|B1
+small|маленький|The flat is small but cosy.|B1
+long|длинный|The queue was very long.|B1
+wide|широкий|The road is wide enough for two cars.|B1
+deep|глубокий|The lake is very deep.|B1
+high|высокий|The mountain is high.|B1
+low|низкий|The prices are low this month.|B1
+young|молодой|The young boy plays football every day.|B1
+beautiful|красивый|What a beautiful view!|B1
+ugly|уродливый|The building is ugly.|B1
+healthy|здоровый|Eat healthy food every day.|B1
+sick|больной|She stayed home because she felt sick.|B1
+tired|усталый|I'm really tired after work.|B1
+angry|злой|He was angry about the delay.|B1
+happy|счастливый|I'm happy with my new job.|B1
+sad|грустный|She looked sad after the call.|B1

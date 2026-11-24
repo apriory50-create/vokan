@@ -1,0 +1,689 @@
+unlikely|маловероятный|It is unlikely that he will win.|B2
+urgent|срочный|This is an urgent message for the manager.|B2
+vague|расплывчатый|The answer was vague and unclear.|B2
+vast|огромный, обширный|The desert covers a vast area.|B2
+versatile|универсальный|This tool is very versatile.|B2
+via|через|We flew to Berlin via Frankfurt.|B2
+vital|жизненно важный|Sleep is vital for good health.|B2
+vulnerable|уязвимый|Children are vulnerable to infection.|B2
+withdraw|отзывать; снимать (деньги)|I withdrew cash from the machine.|B2
+yield|приносить (результат); уступать|The plant yields fruit every year.|B2
+accurate|точный|The map is accurate, so we found the place easily.|B1
+across|через, поперёк|We walked across the bridge.|B1
+addition|добавление|In addition to English, she speaks French.|B1
+adult|взрослый|Adult tickets cost more than children's tickets.|B1
+advertise|рекламировать|The shop advertises its sales on the radio.|B1
+affect|влиять|Stress can affect your sleep.|B1
+afraid|испуганный, боящийся|I'm afraid of spiders.|B1
+agenda|повестка дня|The first item on the agenda is the budget.|B2
+aim|цель; целиться|Our aim is to finish by June.|B1
+alarm|тревога, будильник|I forgot to set the alarm last night.|B1
+allow|позволять|Pets are not allowed in the hotel.|B1
+almost|почти|We are almost at the station.|B1
+alone|один, в одиночестве|She prefers to travel alone.|B1
+amazing|удивительный|The concert was amazing!|B1
+ancient|древний|We visited the ancient ruins of the city.|B1
+annoy|раздражать|The noise from the street annoys me.|B1
+annual|ежегодный|The company holds an annual meeting in May.|B1
+anyway|всё равно, в любом случае|It was raining, but we went out anyway.|B1
+apart|врозь, отдельно|The two houses are far apart.|B1
+apply|подавать заявку; применять|I applied for a job at the bank.|B1
+approximately|примерно|The trip takes approximately three hours.|B2
+area|район, площадь|This area is famous for its restaurants.|B1
+argument|спор, аргумент|They had an argument about the holiday.|B1
+arrange|договариваться|Can you arrange a taxi for seven?|B1
+artificial|искусственный|Some foods contain artificial colours.|B1
+aside|в сторону|Put your phone aside and listen.|B2
+assistance|помощь|Thank you for your assistance.|B2
+astonishing|поразительный|It was an astonishing performance.|B2
+atmosphere|атмосфера|The restaurant has a warm atmosphere.|B1
+attend|посещать|Over two hundred people attended the lecture.|B1
+attention|внимание|Please pay attention to the instructions.|B1
+audience|аудитория, зрители|The audience applauded at the end.|B1
+author|автор|The author wrote three novels.|B1
+average|средний|The average price of a flat here is high.|B1
+award|награда|She won an award for her film.|B1
+aware|осознающий|I wasn't aware of the change.|B1
+balanced|сбалансированный|Eat a balanced diet with fruit and vegetables.|B1
+bark|лаять|The dog barked at the stranger.|B1
+basic|базовый, основной|Learn the basic rules first.|B1
+bay|залив|We swam in a small bay near the town.|B2
+behalf|имя, от имени|I'm calling on behalf of my father.|B2
+beneath|под|The treasure was hidden beneath the floor.|B2
+beside|рядом с|Sit beside me, please.|B1
+beyond|за пределами, дальше|The village is beyond the hills.|B2
+blame|винить; вина|Don't blame yourself for the mistake.|B1
+blank|пустой, чистый|Leave the blank space empty.|B1
+blend|смешивать|Blend the fruit with yoghurt.|B2
+bless|благословлять|Bless you! (after a sneeze)|B2
+blow|дуть; удар|The wind blew all night.|B1
+bold|смелый|His bold idea surprised everyone.|B2
+bond|связь, узы|The two sisters have a strong bond.|B2
+bounce|подпрыгивать|The ball bounced off the wall.|B1
+brief|краткий|Give me a brief summary of the meeting.|B1
+brilliant|блестящий|That's a brilliant idea!|B1
+broad|широкий|The river is very broad here.|B2
+bury|закапывать|They buried the box under the tree.|B2
+cancel|отменять|The concert was cancelled because of illness.|B1
+candidate|кандидат|Three candidates applied for the job.|B2
+capture|захватывать; запечатлевать|The photo captures the mood of the city.|B2
+career|карьера|She started her career as a journalist.|B1
+carefully|осторожно|Read the contract carefully before signing.|B1
+cautious|осторожный|Be cautious when crossing the street.|B2
+ceremony|церемония|The wedding ceremony was held in the garden.|B1
+chamber|палата, камера|The meeting took place in the main chamber.|B2
+chance|шанс, возможность|This is a good chance to practise English.|B1
+charge|плата; заряжать|There is no charge for children.|B1
+cheat|жульничать|He was caught cheating on the test.|B1
+chief|главный|The chief engineer approved the plan.|B1
+circumstance|обстоятельство|Under no circumstances should you open the door.|B2
+civil|гражданский, вежливый|He is a civil servant.|B2
+claim|претензия, утверждение|They made a claim for the damage.|B2
+clever|умный|That was a clever solution.|B1
+cliff|утёс, скала|The house stands on a cliff above the sea.|B2
+clip|клип; прикреплять|Clip the note to the report.|B2
+clothes|одежда|Put on warm clothes, it's cold.|B1
+coach|тренер|Our coach gives us advice before each game.|B1
+colony|колония|The island was once a British colony.|B2
+combine|соединять|Combine the eggs and the flour.|B1
+comment|комментарий; комментировать|Leave a comment below the post.|B1
+commercial|коммерческий; реклама|The commercial lasted thirty seconds.|B2
+commit|брать на себя обязательство|She committed to finishing the course.|B2
+companion|спутник, компаньон|My dog is a loyal companion.|B2
+compassion|сострадание|She showed great compassion for the patients.|B2
+compete|соревноваться|Ten teams will compete in the final.|B1
+competition|соревнование, конкуренция|The competition was tough this year.|B1
+complete|полный; завершать|Complete the form and send it back.|B1
+complex|сложный|The problem is more complex than it looks.|B2
+compose|сочинять|He composed music for films.|B2
+compromise|компромисс|We reached a compromise on the price.|B2
+conceal|скрывать|She tried to conceal her disappointment.|B2
+concentrate|концентрироваться|I can't concentrate with the music on.|B1
+conclusion|вывод|What is your conclusion from the data?|B1
+concrete|конкретный; бетон|Give me a concrete example.|B2
+conduct|вести себя; проводить|Conduct the test in a safe room.|B2
+confirm|подтверждать|Please confirm your booking by email.|B1
+conflict|конфликт; противоречить|The plans conflict with each other.|B2
+congratulate|поздравлять|I congratulated him on his new job.|B1
+connect|соединять; связывать|The bridge connects the two islands.|B1
+conscious|сознательный|She was conscious the whole time.|B2
+consequently|следовательно|He was late; consequently, he missed the start.|B2
+conservative|консервативный|Her parents have very conservative views.|B2
+considerable|значительный|The changes made a considerable difference.|B2
+constructive|конструктивный|Thank you for your constructive feedback.|B2
+consumer|потребитель|Consumers want cheaper prices.|B2
+contemporary|современный|The museum shows contemporary art.|B2
+continual|постоянный, повторяющийся|There were continual delays on the train.|B2
+contract|контракт|Read the contract before you sign it.|B1
+contrary|противоположный|On the contrary, I think it's a great idea.|B2
+convenience|удобство|Shopping online is a great convenience.|B2
+convert|превращать, конвертировать|Convert the price into euros.|B2
+cooperate|сотрудничать|The departments must cooperate closely.|B2
+cope|справляться|She copes well with pressure.|B2
+core|ядро, суть|The core of the problem is money.|B2
+corporate|корпоративный|He works in a large corporate office.|B2
+correspond|соответствовать; переписываться|The results correspond to our predictions.|B2
+costly|дорогостоящий|Mistakes can be costly for the business.|B2
+council|совет (органа)|The city council approved the plan.|B2
+counsel|совет; консультировать|She counselled the students on their future.|B2
+courage|смелость|It takes courage to change your life.|B1
+cover|покрывать; обложка|Cover the food to keep it warm.|B1
+creative|творческий|She has a creative mind.|B1
+crisis|кризис|The company is in a financial crisis.|B2
+criteria|критерии|What are the criteria for the job?|B2
+critical|критический|The situation is critical.|B2
+crop|урожай; культура|The farmers harvested the crop.|B2
+crude|грубый, необработанный|The map is crude but useful.|B2
+cruel|жестокий|It was cruel to laugh at him.|B1
+cultivate|выращивать; развивать|They cultivate rice in the valley.|B2
+cunning|хитрый|The fox is cunning and fast.|B2
+curb|ограничивать|The government wants to curb pollution.|B2
+current|текущий; течение|The current situation is difficult.|B1
+curse|проклятие; ругаться|The curse turned the prince into a frog.|B2
+custom|обычай|It's a custom to bring flowers to the host.|B1
+cute|милый|Look at that cute puppy!|B1
+damp|влажный|The walls feel damp in winter.|B2
+dare|осмеливаться|I didn't dare to ask him.|B2
+deaf|глухой|She is deaf in one ear.|B2
+dealer|дилер, торговец|He is a car dealer.|B2
+debate|дебаты; обсуждать|The debate about climate continues.|B2
+debt|долг|He paid off his debt last year.|B1
+decade|десятилетие|This was the best decade of my life.|B1
+deceive|обманывать|Don't let anyone deceive you.|B2
+declare|заявлять; декларировать|Do you have anything to declare?|B2
+dedicated|преданный делу|She is a dedicated teacher.|B2
+default|по умолчанию|The default setting is English.|B2
+defeat|поражение; победить|Our team suffered a defeat.|B1
+defect|дефект|The car has a serious defect.|B2
+deficit|дефицит|The country has a large budget deficit.|B2
+definite|определённый|There's a definite improvement.|B2
+delay|задержка; задерживать|The flight was delayed by two hours.|B1
+delicate|деликатный, хрупкий|Handle the glass with delicate care.|B2
+deliberately|намеренно|He deliberately ignored my message.|B2
+delight|восторг; радовать|Her smile delights everyone.|B2
+demanding|требовательный|It's a demanding job.|B2
+deny|отрицать|He denies any involvement in the case.|B2
+depict|изображать|The painting depicts a village in winter.|B2
+deposit|вносить залог|You have to deposit money before you rent.|B2
+deprive|лишать|Don't deprive yourself of sleep.|B2
+derive|получать (из чего-то)|The word derives from Latin.|B2
+descend|спускаться|We began to descend into the valley.|B2
+deserve|заслуживать|You deserve a holiday after all that work.|B1
+designer|дизайнер|The designer created a new logo.|B1
+desperate|отчаянный|He was desperate for a job.|B2
+destination|место назначения|Our destination is Lisbon.|B1
+detail|деталь|Please give me more details about the offer.|B1
+detect|обнаруживать|The alarm detects smoke quickly.|B2
+determined|решительный|She is determined to finish the marathon.|B2
+device|устройство|Turn off all electronic devices during the flight.|B1
+devote|посвящать|He devotes his free time to music.|B2
+diagnose|диагностировать|The doctor diagnosed the flu.|B2
+dial|набирать номер|Dial the number and wait for the tone.|B2
+diet|диета, рацион|A healthy diet includes vegetables.|B1
+differ|отличаться|The two versions differ in price.|B2
+digital|цифровой|We read the news on a digital tablet.|B1
+dilemma|дилемма|She faced a difficult moral dilemma.|B2
+diminish|уменьшаться|The pain gradually diminished.|B2
+dine|обедать, ужинать|We dined at a small restaurant by the sea.|B2
+dip|окунать; падение|Dip the bread into the sauce.|B2
+direct|прямой; направлять|The bus is a direct route to the airport.|B1
+disaster|катастрофа|The flood was a natural disaster.|B1
+discipline|дисциплина|Discipline helps you reach your goals.|B2
+disclose|раскрывать|The company refused to disclose its profits.|B2
+display|показывать; экран|The display shows the time and temperature.|B1
+dispute|спор; оспаривать|The two countries are in a border dispute.|B2
+distant|далёкий|The lights in the distant hills were beautiful.|B2
+distress|страдание, бедствие|She was in distress after the call.|B2
+disturb|беспокоить|Please don't disturb me while I'm working.|B1
+divide|делить|Divide the cake into eight pieces.|B1
+document|документ|Bring your documents to the office.|B1
+domestic|внутренний, домашний|The airline offers domestic flights.|B2
+dominate|доминировать|The team dominated the second half.|B2
+doubtful|сомнительный|It's doubtful that the plan will work.|B2
+dramatically|резко, драматично|Prices rose dramatically last year.|B2
+drastic|радикальный|The company made drastic changes.|B2
+drown|утонуть|The child almost drowned in the lake.|B2
+dual|двойной|The phone has a dual camera.|B2
+dull|скучный, тусклый|The movie was dull and too long.|B1
+durable|прочный|This jacket is warm and durable.|B2
+dynamic|динамичный|The city has a dynamic economy.|B2
+eager|полный желания|I'm eager to start the new project.|B2
+earnings|заработок, доход|The company's earnings rose this quarter.|B2
+ease|лёгкость; облегчать|Take a pill to ease the pain.|B2
+economic|экономический|The economic situation is stable.|B2
+edit|редактировать|Please edit the text before you submit it.|B1
+efficiency|эффективность|Efficiency is the key to success.|B2
+elaborate|подробный; разрабатывать|Give an elaborate explanation of the process.|B2
+elegant|элегантный|She wore an elegant black dress.|B1
+eliminate|устранять|We need to eliminate waste from the process.|B2
+emotion|эмоция|Music can express strong emotions.|B1
+emphasize|подчёркивать|The coach emphasized the importance of rest.|B2
+empire|империя|The Roman Empire was very large.|B2
+employ|нанимать; использовать|The shop employs ten people.|B2
+enclose|прилагать (к письму)|I enclosed a copy of my passport.|B2
+encounter|встреча; сталкиваться|We encountered some problems on the way.|B2
+endless|бесконечный|The road seemed endless.|B1
+energetic|энергичный|The children were energetic and happy.|B1
+enforce|обеспечивать соблюдение|The police enforce the traffic laws.|B2
+engage|вовлекать|The lesson engages students with games.|B2
+enquire|спрашивать, справляться|I'd like to enquire about the price.|B2
+enrich|обогащать|Reading enriches your vocabulary.|B2
+enrol|записывать (на курс)|I enrolled in an English course.|B2
+entertain|развлекать|The clown entertained the children.|B1
+entitle|давать право|This ticket entitles you to free entry.|B2
+entrance|вход|Meet me at the main entrance.|B1
+envy|зависть|She felt envy when she saw his car.|B2
+episode|эпизод|Did you watch the last episode?|B1
+equal|равный|All people should have equal rights.|B1
+essay|эссе|We have to write an essay on climate.|B1
+essence|суть|The essence of the story is friendship.|B2
+establish|основывать, устанавливать|The company was established in 1990.|B2
+eternal|вечный|They promised eternal love.|B2
+ethical|этичный|It's not ethical to lie to customers.|B2
+evaluation|оценка|The evaluation takes place every year.|B2
+evidence|доказательство|There is no evidence of a crime.|B1
+evolve|развиваться|Language evolves over time.|B2
+exact|точный|What is the exact time?|B1
+exaggerate|преувеличивать|Don't exaggerate the problem.|B2
+exceptional|исключительный|She has exceptional talent for maths.|B2
+excess|излишек|Avoid excess sugar in your diet.|B2
+exclusive|эксклюзивный|This is an exclusive offer for members.|B2
+executive|руководитель|She is a senior executive at the bank.|B2
+exhibit|экспонат; выставлять|The museum exhibits ancient coins.|B2
+expertise|экспертиза, мастерство|We need your expertise on this project.|B2
+explicit|явный, откровенный|The instructions are explicit and clear.|B2
+exploit|использовать (в своих целях)|Companies should not exploit workers.|B2
+export|экспорт; экспортировать|The country exports cars to Europe.|B2
+expose|подвергать|Don't expose children to smoke.|B2
+extent|степень, масштаб|To some extent, I agree with you.|B2
+external|внешний|The external walls need painting.|B2
+extract|извлекать|Extract the main ideas from the text.|B2
+extraordinary|необычайный|It was an extraordinary achievement.|B2
+fabric|ткань|This fabric is soft and warm.|B1
+facility|сооружение, учреждение|The sports facility has a new pool.|B2
+faint|слабый; падать в обморок|I can hear a faint sound in the distance.|B2
+fake|поддельный|The painting turned out to be fake.|B1
+fame|слава|Fame changed his life completely.|B2
+familiar|знакомый|His face looks familiar to me.|B1
+fancy|модный; нравиться|Let's go somewhere fancy for dinner.|B1
+fate|судьба|It was fate that we met again.|B2
+fatal|смертельный|The accident was fatal.|B2
+feasible|выполнимый|A two-week deadline is feasible for this task.|B2
+feedback|обратная связь|Please give me feedback on my essay.|B1
+fiction|художественная литература|I prefer fiction to non-fiction.|B1
+fierce|ожесточённый|The fierce wind knocked down the trees.|B2
+finance|финансы|She works in finance.|B2
+fine|штраф; хороший|I got a parking fine yesterday.|B1
+firm|фирма; твёрдый|The firm employs over a hundred people.|B1
+flame|пламя|The flame of the candle flickered.|B2
+flat|плоский; квартира|The land is completely flat.|B1
+flexible|гибкий|Our working hours are flexible.|B1
+fluctuate|колебаться (о ценах)|Prices fluctuate from day to day.|B2
+fold|складывать|Fold the paper in half.|B1
+forbid|запрещать|Smoking is forbidden in the building.|B2
+foreign|иностранный|She speaks several foreign languages.|B1
+formal|официальный|The invitation requires formal clothing.|B1
+fortunate|удачливый|We were fortunate to find a room.|B2
+fossil|окаменелость|The fossil is 200 million years old.|B2
+frankly|честно говоря|Frankly, I don't think it will work.|B2
+frequent|частый|There are frequent trains to the city.|B1
+fresh|свежий|This bread is fresh from the oven.|B1
+frighten|пугать|The loud noise frightened the cat.|B1
+fundamental|основной, фундаментальный|Honesty is a fundamental value.|B2
+gather|собирать|We gathered in the hall for the meeting.|B1
+gaze|пристальный взгляд|She looked up with a gentle gaze.|B2
+generate|генерировать|The wind farm generates electricity.|B2
+generous|щедрый|He was very generous with his time.|B1
+genius|гений|She is a genius at mathematics.|B2
+gesture|жест|He made a friendly gesture to the guests.|B2
+glimpse|мимолётный взгляд|I caught a glimpse of the famous actor.|B2
+goods|товары|The goods were delivered on time.|B1
+govern|управлять|The party governs the country.|B2
+gradual|постепенный|There was a gradual change in the weather.|B2
+grateful|благодарный|I'm grateful for your support.|B1
+gravity|гравитация|Gravity keeps us on the ground.|B2
+greedy|жадный|The greedy man wanted all the money.|B2
+grief|горе|She was overcome with grief.|B2
+grip|хватка; крепко держать|Hold the rope with a firm grip.|B2
+guideline|руководство, правило|Follow the safety guidelines at all times.|B2
+harbor|гавань|The boats are in the harbor.|B1
+harsh|суровый|The winter here is very harsh.|B2
+hazardous|опасный|Chemicals can be hazardous to health.|B2
+heal|заживать, исцелять|The cut will heal in a week.|B2
+heritage|наследие|The old town is part of our cultural heritage.|B2
+hesitation|колебание|Without hesitation, she said yes.|B2
+hidden|скрытый|There is a hidden door behind the books.|B1
+highlight|выделять; главное событие|The report highlights the main risks.|B2
+hollow|пустой внутри|The tree trunk was hollow.|B2
+honour|честь|It is an honour to meet you.|B2
+hopeful|полный надежды|I'm hopeful that we will win.|B1
+horizon|горизонт|The sun sank below the horizon.|B2
+hostage|заложник|The hostages were released after two days.|B2
+humble|скромный|He is humble despite his success.|B2
+hurt|ранить; болеть|Did you hurt yourself when you fell?|B1
+identity|личность, идентичность|Protect your identity online.|B2
+ideal|идеальный|This is the ideal place for a holiday.|B1
+ignorant|невежественный|It's ignorant to judge without knowing the facts.|B2
+illegal|незаконный|Parking here is illegal.|B1
+illness|болезнь|Her illness lasted for several weeks.|B1
+immediate|немедленный|We need an immediate answer.|B1
+immense|огромный|The project required immense effort.|B2
+impair|ухудшать, нарушать|Alcohol can impair your judgement.|B2
+impatient|нетерпеливый|The child was impatient to open the gift.|B1
+imperative|крайне необходимый|It is imperative to act now.|B2
+impose|навязывать|Don't impose your views on others.|B2
+impressive|впечатляющий|Her knowledge of history is impressive.|B1
+improper|неподобающий|It was improper to talk during the ceremony.|B2
+incentive|стимул|A bonus is an incentive for workers.|B2
+incident|происшествие|The incident was reported to the police.|B2
+incline|склон; склоняться|The road has a steep incline.|B2
+indicate|указывать|The results indicate a clear trend.|B2
+individual|отдельный человек; индивидуальный|Each individual has their own needs.|B1
+industry|промышленность, индустрия|The tourism industry is growing fast.|B1
+ingredient|ингредиент|Add the final ingredient to the soup.|B1
+inhabit|населять|The island is inhabited by a few families.|B2
+inherent|присущий|Risk is inherent in every investment.|B2
+initiate|инициировать|The company initiated a new campaign.|B2
+innovation|инновация|Innovation drives economic growth.|B2
+inquire|спрашивать|I'd like to inquire about the course.|B2
+insert|вставлять|Insert the card into the slot.|B1
+inspect|осматривать, проверять|The inspector checked the building.|B2
+instinct|инстинкт, интуиция|Trust your instinct when you are unsure.|B2
+intact|целый, неповреждённый|The vase survived the fall intact.|B2
+integrate|интегрировать|Immigrants need time to integrate into society.|B2
+intellectual|интеллектуальный|He is a deep intellectual thinker.|B2
+intelligent|умный|The dog is very intelligent.|B1
+intentional|преднамеренный|The mistake was not intentional.|B2
+interior|внутренний; интерьер|The interior of the house is modern.|B2
+intimate|близкий, интимный|They have an intimate friendship.|B2
+intriguing|интригующий|The story is intriguing from the first page.|B2
+invisible|невидимый|The wind is invisible but strong.|B1
+involve|включать|The plan involves several steps.|B1
+irritate|раздражать|The smell irritated my nose.|B2
+isolate|изолировать|Isolate the sick patient to prevent infection.|B2
+issue|вопрос; выпуск|The magazine's latest issue is out.|B1
+jealous|ревнивый|He's jealous of his brother's job.|B2
+keen|увлечённый, острый|She is keen on photography.|B2
+kidnap|похищать|The gang tried to kidnap the businessman.|B2
+knot|узел|Tie a knot in the rope.|B2
+label|ярлык; маркировать|Read the label before you eat.|B1
+landmark|достопримечательность|The tower is a famous landmark.|B2
+landscape|ландшафт, пейзаж|The landscape is beautiful in autumn.|B1
+lately|в последнее время|I haven't seen him lately.|B1
+latter|последний (из двух)|Of the two options, I prefer the latter.|B2
+laughter|смех|The room was full of laughter.|B1
+lazy|ленивый|Don't be lazy, get up!|B1
+leak|протечка; протекать|There is a leak in the roof.|B2
+legal|законный|Is it legal to sell this product here?|B1
+legend|легенда|According to legend, the castle is haunted.|B2
+legislation|законодательство|New legislation will protect workers.|B2
+liability|ответственность|The company accepts no liability for lost items.|B2
+liberty|свобода|Freedom and liberty are important values.|B2
+lightly|легко, слегка|Brush the bread lightly with oil.|B2
+likewise|также|Thank you, likewise!|B2
+limited|ограниченный|We have limited time to finish.|B1
+linger|задерживаться|The smell of smoke lingered in the room.|B2
+literacy|грамотность|Digital literacy is an important skill.|B2
+livestock|скот|Farmers keep livestock on the hills.|B2
+lively|оживлённый|The market was lively and colourful.|B1
+loan|заём, кредит|She took out a loan to buy a car.|B1
+lodge|гостиница, домик|We stayed at a mountain lodge.|B2
+loose|свободный, расшатанный|This tooth feels loose.|B1
+lottery|лотерея|He won the lottery last week.|B1
+luxury|роскошь|A week in the spa is a real luxury.|B2
+magnificent|великолепный|The palace is magnificent.|B2
+manual|руководство; ручной|Read the manual before using the machine.|B1
+margin|край, разница|The winner won by a narrow margin.|B2
+marine|морской|The marine life in the reef is rich.|B2
+marvel|чудо; изумляться|We marvelled at the beautiful view.|B2
+massive|огромный|There was a massive crowd at the festival.|B1
+mature|зрелый|She is mature for her age.|B2
+meaningful|значимый|We had a meaningful conversation.|B2
+medium|средний|Choose a medium size.|B1
+melt|таять|The snow started to melt in spring.|B1
+memorable|запоминающийся|It was a memorable trip.|B1
+mental|умственный, психический|Mental health is as important as physical health.|B2
+mercy|милосердие|He begged for mercy.|B2
+mess|беспорядок|The kitchen is a mess after the party.|B1
+method|метод|This method saves time and money.|B1
+mild|мягкий|The winter here is quite mild.|B1
+mineral|минерал|Water contains important minerals.|B2
+minimal|минимальный|The damage was minimal.|B2
+mislead|вводить в заблуждение|The advert misled customers about the price.|B2
+mobile|подвижный; мобильный|Most people use a mobile phone.|B1
+modest|скромный|She lives in a modest flat.|B2
+moist|влажный|Keep the cake moist by covering it.|B2
+mood|настроение|Her mood improved after lunch.|B1
+moral|моральный|It is a moral duty to help others.|B2
+mostly|в основном|The students are mostly from abroad.|B1
+motion|движение|The car came to a sudden motion.|B2
+motive|мотив|What was his motive for leaving?|B2
+mount|подниматься; гора|They began to mount the steep hill.|B2
+mystery|загадка, тайна|The mystery was finally solved.|B1
+myth|миф|It's a myth that you can't learn languages late.|B2
+namely|а именно|Two people, namely Ann and Tom, were chosen.|B2
+narrow|узкий|The street is very narrow.|B1
+nasty|противный, неприятный|The weather was nasty all week.|B1
+nature|природа|I love spending time in nature.|B1
+nearby|близлежащий|Is there a bank nearby?|B1
+neat|аккуратный|Her handwriting is very neat.|B1
+neither|ни один из двух|Neither of us knew the answer.|B1
+nerve|нерв; смелость|It took nerve to speak in public.|B2
+nominate|номинировать|She was nominated for an award.|B2
+normal|обычный|It's normal to feel nervous before an exam.|B1
+notice|заметить; уведомление|I noticed a mistake in the contract.|B1
+novel|роман; новый|She is writing a novel about war.|B1
+numerous|многочисленный|There are numerous reasons to learn English.|B2
+obey|подчиняться|Children should obey the rules.|B2
+object|предмет; возражать|What is that strange object on the table?|B1
+oblige|обязывать|I'm obliged to tell the truth.|B2
+obsess|одержимость|He is obsessed with football.|B2
+obstacle|препятствие|The biggest obstacle is lack of time.|B2
+obvious|очевидный|It is obvious that she is tired.|B1
+occasion|случай, событие|It was a special occasion.|B1
+occupy|занимать|The soldiers occupied the town.|B2
+offend|обижать|I didn't mean to offend you.|B1
+opponent|противник|The opponent scored in the last minute.|B2
+oppose|выступать против|Many people oppose the new tax.|B2
+optimistic|оптимистичный|She is optimistic about the future.|B1
+orbit|орбита; вращаться|The satellite orbits the Earth.|B2
+ordinary|обычный|It was an ordinary day at work.|B1
+organic|органический|I buy organic vegetables.|B1
+overlook|игнорировать; не замечать|Don't overlook small details.|B2
+overseas|за границей|She works overseas for a big company.|B2
+ownership|владение|Ownership of the house is in her name.|B2
+pace|темп|Work at your own pace.|B2
+pale|бледный|She looked pale after the accident.|B1
+panic|паника|Don't panic, we have plenty of time.|B1
+parallel|параллельный|The two roads run parallel to each other.|B2
+pardon|прощение; простить|Pardon me, could you repeat that?|B2
+partial|частичный|We received only partial payment.|B2
+particular|особенный, конкретный|Is there any particular reason you're late?|B1
+passage|проход; отрывок|Read the passage and answer the questions.|B2
+patience|терпение|Patience is important when you learn a language.|B1
+peak|вершина, пик|We reached the peak at sunrise.|B2
+peer|ровесник|She is doing better than her peers.|B2
+penalty|штраф, наказание|There is a penalty for late payment.|B2
+perceive|воспринимать|He perceives the world in a unique way.|B2
+perfectly|идеально|The plan worked perfectly.|B1
+perhaps|возможно|Perhaps we should try again.|B1
+persuasive|убедительный|Her speech was very persuasive.|B2
+pine|сосна|The forest is full of tall pine trees.|B2
+pit|яма, шахта|The workers dug a deep pit.|B2
+plain|простой; равнина|The dress is plain but elegant.|B1
+plot|сюжет; участок земли|The plot of the film is confusing.|B1
+policy|политика, правило|The company changed its refund policy.|B1
+polish|полировать|Polish the shoes before the wedding.|B2
+pollute|загрязнять|Factories pollute the river.|B2
+portrait|портрет|She painted a portrait of her grandmother.|B1
+pose|позировать; создавать (проблему)|The question poses a serious problem.|B2
+positive|позитивный|Try to stay positive during difficult times.|B1
+possess|владеть|He possesses a rare collection of stamps.|B2
+potential|потенциал; потенциальный|She has great potential as an artist.|B2
+poverty|бедность|Poverty is a serious problem in some regions.|B2
+precise|точный|Give me the precise location.|B2
+predict|предсказывать|It's hard to predict the weather.|B1
+prefer|предпочитать|I prefer tea to coffee.|B1
+prejudice|предубеждение|Prejudice can damage relationships.|B2
+premium|премиум; высший сорт|The premium plan includes extra features.|B2
+presence|присутствие|Her presence made the room feel warmer.|B2
+pretend|притворяться|He pretended to be asleep.|B1
+prevail|преобладать, побеждать|Common sense should prevail.|B2
+primary|основной, первичный|Our primary goal is customer satisfaction.|B2
+principle|принцип|It's against my principles to lie.|B2
+privacy|конфиденциальность|Respect people's privacy.|B2
+probable|вероятный|It is probable that the train is late.|B2
+procedure|процедура|The procedure takes about an hour.|B2
+profession|профессия|Teaching is a rewarding profession.|B1
+profound|глубокий|The book had a profound effect on me.|B2
+progress|прогресс|We are making good progress on the project.|B1
+prohibit|запрещать|Parking is prohibited on this street.|B2
+prominent|видный, заметный|He is a prominent figure in politics.|B2
+prompt|быстрый; побуждать|Please give a prompt reply.|B2
+proportion|пропорция, доля|A large proportion of students work part-time.|B2
+prospect|перспектива|The prospect of a holiday cheered her up.|B2
+protest|протест; протестовать|Thousands joined the protest in the square.|B1
+psychological|психологический|The game has a psychological effect.|B2
+publish|публиковать|The book was published last year.|B1
+pursue|преследовать, стремиться|She pursued her dream of becoming a pilot.|B2
+qualify|квалифицироваться|She qualified as a lawyer.|B2
+quarrel|ссора; ссориться|The two friends had a quarrel.|B2
+quote|цитата; цитировать|He quoted a famous poet.|B2
+radical|радикальный|The company made radical changes.|B2
+random|случайный|Choose a random number between one and ten.|B1
+rare|редкий|It's rare to see snow here.|B1
+rate|ставка, темп|The exchange rate changed today.|B1
+rational|рациональный|Let's make a rational decision.|B2
+raw|сырой|Some people eat raw fish.|B1
+react|реагировать|How did they react to the news?|B1
+realistic|реалистичный|Be realistic about the timeline.|B2
+rebuild|восстанавливать|They rebuilt the house after the fire.|B2
+recession|рецессия, спад|The country is in recession.|B2
+reckless|безрассудный|His reckless driving caused the accident.|B2
+recruit|нанимать; новобранец|The company wants to recruit new staff.|B2
+reduction|снижение|There was a reduction in prices.|B2
+reference|ссылка, отсылка|Please give me a reference from your last job.|B2
+refine|уточнять, совершенствовать|We need to refine the plan.|B2
+reflection|размышление, отражение|After some reflection, I changed my mind.|B2
+reform|реформа|The government announced a reform of schools.|B2
+refuge|убежище|The mountain hut was a refuge from the storm.|B2
+regime|режим (правления)|The new regime changed many laws.|B2
+regional|региональный|Regional news is on at six.|B2
+register|регистрировать|You need to register before you vote.|B1
+regular|регулярный|Regular exercise keeps you fit.|B1
+reject|отвергать|The committee rejected the proposal.|B2
+relevant|актуальный, относящийся|Please include only relevant information.|B2
+reliable|надёжный|This car is very reliable.|B1
+reluctance|нежелание|She showed reluctance to answer.|B2
+remarkable|замечательный|She made a remarkable recovery.|B2
+renew|возобновлять, продлевать|I need to renew my passport.|B2
+repair|ремонт; чинить|The shoes need repair.|B1
+repeat|повторять|Could you repeat the question?|B1
+replace|заменять|The old system will be replaced next year.|B1
+reputation|репутация|The restaurant has a great reputation.|B2
+resemble|быть похожим|She resembles her mother.|B2
+reservation|бронирование|I have a reservation for two at eight.|B2
+resident|житель|Residents of the area were asked to vote.|B2
+residue|остаток, осадок|There is a sticky residue on the glass.|B2
+resource|ресурс|We have limited resources for the project.|B2
+respect|уважение; уважать|Everyone deserves respect.|B1
+restore|восстанавливать|The museum restored the old painting.|B2
+restrict|ограничивать|The law restricts the use of plastic bags.|B2
+retain|сохранять|The company retained most of its staff.|B2
+revenue|выручка|The company's revenue doubled last year.|B2
+review|обзор; проверять|Read the reviews before you buy.|B1
+revise|пересматривать; повторять материал|I need to revise for the exam.|B2
+reward|награда; вознаграждать|There is a reward for finding the dog.|B2
+rhythm|ритм|The music has a fast rhythm.|B2
+rigid|жёсткий|The chair has a rigid back.|B2
+rival|конкурент|Our main rival opened a new shop.|B2
+rotate|вращать|The earth rotates once every day.|B2
+routine|рутина, распорядок|My morning routine includes coffee and exercise.|B1
+rural|сельский|They live in a rural village.|B2
+sacrifice|жертва; жертвовать|Parents often make sacrifices for their children.|B2
+sample|образец|Take a sample of the water.|B2
+satisfy|удовлетворять|This answer doesn't satisfy me.|B2
+scatter|разбрасывать|The wind scattered the leaves.|B2
+scheme|схема, план|The scheme will help poor families.|B2
+scrap|металлолом; выбрасывать|The old car went to the scrap yard.|B2
+seal|печать; запечатывать|Seal the envelope before sending it.|B2
+secret|секрет; тайный|Can you keep a secret?|B1
+seize|захватывать|Police seized the illegal goods.|B2
+sensitive|чувствительный|My skin is sensitive to the sun.|B1
+sentence|предложение; приговор|Write a sentence using the new word.|B1
+separate|отдельный; разделять|Keep the raw meat separate from vegetables.|B1
+serve|подавать; служить|The waiter served the soup.|B1
+settle|поселиться; решить|We settled in Madrid.|B2
+shallow|мелкий, поверхностный|The water is shallow here.|B2
+shelter|укрытие; укрывать|We found shelter from the rain.|B2
+shiny|блестящий|The floor is shiny after cleaning.|B1
+shrink|уменьшаться|The shirt shrank in the wash.|B2
+sigh|вздох; вздыхать|She let out a deep sigh.|B2
+silent|молчаливый|The house was silent at night.|B1
+simulate|моделировать|The software simulates the flight.|B2
+sincerely|искренне|Yours sincerely, Anna.|B2
+skilled|квалифицированный|We need skilled workers.|B2
+slope|склон|We skied down the slope.|B1
+slum|трущобы|The charity works in the city slums.|B2
+solid|твёрдый; надёжный|The table is made of solid wood.|B1
+sophisticated|изощрённый, сложный|This is a sophisticated system.|B2
+sort|вид, сорт|What sort of music do you like?|B1
+spare|запасной; свободный|Do you have a spare key?|B1
+sparkle|сверкать|The stars sparkled in the sky.|B2
+specific|конкретный|Be more specific about the problem.|B1
+spectacular|впечатляющий|The view was spectacular.|B2
+spill|проливать|Be careful not to spill the paint.|B1
+spirit|дух, настроение|The team's spirit is high.|B2
+split|делить; раскол|Let's split the cost evenly.|B1
+spoil|портить|Don't spoil the surprise!|B1
+spontaneous|спонтанный|Their spontaneous trip was fun.|B2
+stability|стабильность|Political stability is important for investors.|B2
+stake|ставка, доля|He has a stake in the company.|B2
+stance|позиция|What is the government's stance on the issue?|B2
+stiff|жёсткий, онемевший|My neck is stiff this morning.|B2
+stimulate|стимулировать|Music can stimulate creativity.|B2
+strain|напряжение; перенапряжение|The job puts a lot of strain on her.|B2
+stranger|незнакомец|Don't talk to strangers online.|B1
+strengthen|укреплять|Exercise strengthens your muscles.|B2
+stroll|прогулка|We took a stroll along the river.|B2
+structure|структура|The structure of the essay is clear.|B1
+stun|ошеломлять|The news stunned the whole office.|B2
+subtle|тонкий, едва заметный|There is a subtle difference between the two.|B2
+subtract|вычитать|Subtract five from ten.|B1
+succession|последовательность|A succession of storms hit the coast.|B2
+sufficient|достаточный|Is this amount sufficient?|B2
+sum|сумма|What is the sum of these numbers?|B1
+superior|превосходящий|The new model is superior to the old one.|B2
+supervise|контролировать|A teacher supervises the students.|B2
+surface|поверхность|Clean the surface before painting.|B1
+surge|резкий рост|There was a surge in online sales.|B2
+surrender|сдаваться|They refused to surrender.|B2
+suspend|приостанавливать|The company suspended production.|B2
+swift|быстрый|The police took swift action.|B2
+sympathy|сочувствие|I have great sympathy for her situation.|B2
+tail|хвост|The dog wagged its tail.|B1
+talent|талант|She has a real talent for music.|B1
+target|цель; нацеливаться|Our target is one thousand customers.|B1
+temper|нрав; характер|He has a quick temper.|B2
+tense|напряжённый|The atmosphere in the room was tense.|B1
+terrain|местность, рельеф|The terrain is rough and hilly.|B2
+testify|давать показания|The witness testified in court.|B2
+theory|теория|The theory explains how the universe began.|B1
+thrill|острое ощущение|The ride gave us a thrill.|B2
+thrive|процветать|Plants thrive in warm sunlight.|B2
+tide|прилив|The tide comes in twice a day.|B2
+tidy|аккуратный; убирать|Keep your desk tidy.|B1
+timid|робкий|The timid child hid behind her mother.|B2
+toll|жертвы, потери|The war took a heavy toll on the country.|B2
+topic|тема|What is the topic of your essay?|B1
+torture|пытка; мучить|Torture is illegal in most countries.|B2
+trait|черта характера|Honesty is an important trait.|B2
+tranquil|спокойный|The lake was calm and tranquil.|B2
+transform|преобразовывать|The new park transformed the area.|B2
+treaty|договор|The two countries signed a peace treaty.|B2
+tremendous|огромный|We felt tremendous pressure.|B2
+trial|судебный процесс; испытание|The trial lasted three weeks.|B2
+tribute|дань уважения|The concert was a tribute to the singer.|B2
+trivial|тривиальный, пустяковый|It's a trivial problem, don't worry.|B2
+tropical|тропический|We enjoyed the tropical weather.|B2
+tumble|падать, кувыркаться|The vase tumbled off the shelf.|B2
+turbulence|турбулентность|The plane hit turbulence over the mountains.|B2
+twist|поворот; крутить|The story has an unexpected twist.|B2
+ultimate|окончательный|Our ultimate goal is to win.|B2
+undergo|подвергаться|The car is undergoing repairs.|B2
+undertake|предпринимать|We undertook a major research project.|B2
+uniform|форма; однородный|Students wear a school uniform.|B1
+unite|объединять|The team united to win the game.|B2
+universal|всеобщий|Love is a universal language.|B2
+unleash|выпускать на волю|The film unleashed a wave of debate.|B2
+unload|разгружать|Unload the car when you arrive.|B2
+urban|городской|Urban life can be stressful.|B2
+utility|полезность; коммунальная услуга|The utility bill arrived today.|B2
+vacant|свободный, пустой|The room is vacant.|B2
+vanish|исчезать|The thief vanished into the crowd.|B2
+variety|разнообразие|There is a wide variety of fruit here.|B1
+vessel|сосуд; судно|The vessel sailed out of the harbour.|B2
+veteran|ветеран|He is a veteran of the war.|B2
+vibrant|яркий, живой|The city is vibrant at night.|B2
+vicious|злобный|The dog had a vicious bite.|B2
+victim|жертва|The victim was taken to hospital.|B1
+vigorous|энергичный|They did vigorous exercise every morning.|B2
+violate|нарушать|The company violated the safety rules.|B2
+vital|важный|It's vital to keep a record of expenses.|B2
+vivid|яркий|She has a vivid memory of that day.|B2
+voyage|путешествие по морю|The voyage across the ocean took a month.|B2
+wage|зарплата|Workers demanded higher wages.|B2
+warn|предупреждать|The sign warns drivers about ice.|B1
+wealth|богатство|Wealth doesn't always bring happiness.|B2
+weary|усталый|He was weary after the long journey.|B2
+whisper|шёпот; шептать|She whispered her name in my ear.|B1
+wildly|дико, безумно|The crowd cheered wildly.|B2
+willing|готовый|I'm willing to help if you need me.|B1
+wipe|вытирать|Wipe the table with a damp cloth.|B1
+withdraw|отступать|The army withdrew from the city.|B2
+wit|остроумие|She is known for her sharp wit.|B2
+wizard|волшебник|The wizard waved his wand.|B2
+worth|стоящий|This restaurant is worth a visit.|B1
+wound|рана|The wound healed slowly.|B2
+yearn|тосковать, стремиться|She yearned to see the ocean again.|B2
+zone|зона|This is a no-parking zone.|B1

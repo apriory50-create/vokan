@@ -1,0 +1,109 @@
+passenger|пассажир|The passengers boarded the plane.|B1
+pilot|пилот|The pilot announced the landing.|B1
+driver|водитель|The driver stopped at the red light.|B1
+conductor|кондуктор|The conductor checked our tickets.|B1
+platform|платформа|The train leaves from platform four.|B1
+timetable|расписание|Check the timetable before you go.|B1
+departure|отправление|The departure time is 8:15.|B1
+arrival|прибытие|Arrival is at noon.|B1
+gate|выход на посадку|Go to gate twelve.|B1
+boarding pass|посадочный талон|Show your boarding pass at the gate.|B1
+customs|таможня|We went through customs quickly.|B1
+visa|виза|You need a visa to enter the country.|B1
+hostel|хостел|We stayed in a cheap hostel.|B1
+guesthouse|гостевой дом|The guesthouse was small and friendly.|B1
+reception|стойка регистрации|Ask at reception for a map.|B1
+room service|обслуживание номеров|We ordered breakfast through room service.|B1
+sightseeing|осмотр достопримечательностей|We went sightseeing all day.|B1
+tour guide|гид|The tour guide told us about the history.|B1
+souvenir shop|сувенирный магазин|We bought gifts in the souvenir shop.|B1
+local|местный|Try the local food when you visit.|B1
+foreigner|иностранец|Foreigners often find the language hard.|B1
+tourist|турист|The tourists took photos of the bridge.|B1
+traveller|путешественник|Experienced travellers pack light.|B1
+abroad|за границей|She has never studied abroad.|B1
+homesick|тоскующий по дому|I felt homesick during the first month.|B1
+culture|культура|I love learning about different cultures.|B1
+tradition|традиция|It's a tradition to celebrate New Year's Eve with friends.|B1
+language barrier|языковой барьер|We overcame the language barrier with gestures.|B2
+native speaker|носитель языка|I practise with a native speaker twice a week.|B1
+accent|акцент|She has a strong Scottish accent.|B1
+pronunciation|произношение|Good pronunciation takes practice.|B1
+vocabulary|словарный запас|Build your vocabulary every day.|B1
+grammar|грамматика|Grammar rules can be confusing at first.|B1
+sentence|предложение|Write one sentence about your day.|B1
+paragraph|абзац|Each paragraph should have one main idea.|B1
+dictionary|словарь|Look the word up in the dictionary.|B1
+textbook|учебник|Open your textbook on page ten.|B1
+exercise|упражнение|Do the exercise at home.|B1
+quiz|викторина, тест|We had a short quiz on Friday.|B1
+homework|домашнее задание|I have a lot of homework tonight.|B1
+classmate|одноклассник|My classmate helped me with maths.|B1
+graduate|выпускник; окончить|She graduated from university last year.|B1
+scholarship|стипендия|He won a scholarship to study in London.|B2
+degree|степень, диплом|She has a degree in biology.|B1
+exam|экзамен|The exam is on Monday.|B1
+result|результат|Check your exam results online.|B1
+mark|оценка, отметка|She got a high mark in English.|B1
+course|курс|I'm taking an online course in design.|B1
+lesson|урок|The lesson starts at nine.|B1
+professor|профессор|The professor gave a short lecture.|B1
+campus|кампус|The campus is very green.|B1
+dormitory|общежитие|He lives in a dormitory with two friends.|B1
+library|библиотека|I study in the library every evening.|B1
+laboratory|лаборатория|The students worked in the laboratory.|B2
+father|отец|My father is a teacher.|B1
+mother|мать|My mother cooks the best soup.|B1
+brother|брат|My brother lives in Berlin.|B1
+sister|сестра|My sister is two years older than me.|B1
+parent|родитель|Parents should support their children.|B1
+child|ребёнок|The child is learning to ride a bike.|B1
+baby|ребёнок (малыш)|The baby is sleeping now.|B1
+teenager|подросток|Teenagers spend a lot of time online.|B1
+grandparent|дедушка или бабушка|My grandparents live in the countryside.|B1
+cousin|двоюродный брат или сестра|My cousin is studying medicine.|B1
+husband|муж|Her husband works as a doctor.|B1
+wife|жена|His wife is a lawyer.|B1
+partner|партнёр|My partner and I cook together.|B1
+friend|друг|She is my best friend.|B1
+neighbour|сосед|Our neighbour has a big dog.|B1
+stranger|незнакомец|Don't accept gifts from strangers.|B1
+boss|начальник|My boss is very supportive.|B1
+customer|клиент|The customer asked for a refund.|B1
+client|клиент (бизнес)|Our client needs the report by Friday.|B1
+owner|владелец|The owner of the shop is very friendly.|B1
+guest|гость|We have guests coming tonight.|B1
+host|хозяин, ведущий|The host welcomed everyone warmly.|B1
+doctor|врач|I need to see a doctor about my back.|B1
+nurse|медсестра|The nurse took my blood pressure.|B1
+dentist|стоматолог|I have an appointment with the dentist.|B1
+hospital|больница|She stayed in hospital for three days.|B1
+clinic|поликлиника|The clinic is open on weekdays.|B1
+ambulance|скорая помощь|Call an ambulance immediately!|B1
+emergency|чрезвычайная ситуация|In an emergency, call 112.|B1
+police|полиция|The police arrived in five minutes.|B1
+firefighter|пожарный|The firefighters put out the fire quickly.|B1
+soldier|солдат|The soldier returned home after the war.|B2
+farmer|фермер|The farmer grows wheat and corn.|B1
+engineer|инженер|She is a software engineer.|B1
+architect|архитектор|The architect designed the new school.|B1
+journalist|журналист|The journalist wrote about the election.|B1
+actor|актёр|The actor won an award for his role.|B1
+singer|певец|The singer released a new song.|B1
+writer|писатель|The writer signed copies of her book.|B1
+musician|музыкант|The musician plays the piano beautifully.|B1
+artist|художник|The artist painted the whole wall.|B1
+photographer|фотограф|The photographer took amazing pictures.|B1
+translator|переводчик|The translator works from Spanish to English.|B1
+interpreter|устный переводчик|The interpreter helped us at the meeting.|B2
+accountant|бухгалтер|The accountant checks our money every month.|B1
+scientist|учёный|The scientist made an important discovery.|B1
+programmer|программист|The programmer fixed the bug in one hour.|B1
+designer|дизайнер|The designer chose blue for the logo.|B1
+cook|повар; готовить|She is a great cook.|B1
+waiter|официант|The waiter brought our order quickly.|B1
+waitress|официантка|The waitress recommended the fish.|B1
+bartender|бармен|The bartender made a cocktail for me.|B1
+cleaner|уборщик|The cleaner works in the office at night.|B1
+security guard|охранник|The security guard checked our bags.|B1
+receptionist|администратор|The receptionist answered the phone.|B1
